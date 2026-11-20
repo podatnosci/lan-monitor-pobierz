@@ -7,9 +7,7 @@ i anomaliach — wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 > Pobierz, zainstaluj i korzystaj **14 dni za darmo w pełnej wersji (FULL)**. Potem
 > aktywujesz licencję, żeby działać dalej.
 
-<!-- Zrzut pulpitu — dodaj plik obrazy/pulpit.png i odkomentuj linię niżej:
 ![Pulpit LAN Monitor](obrazy/pulpit.png)
--->
 
 ## Dla kogo
 - Małe i średnie firmy, które chcą wiedzieć, co jest w ich sieci.
