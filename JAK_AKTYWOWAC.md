@@ -33,7 +33,7 @@ sudo lanmonitor --license lanmonitor.lic
 **Skąd wziąć plik `.lic`?**
 Dostajesz go e‑mailem po zakupie. Jeśli nie dotarł — sprawdź spam albo napisz do wsparcia.
 
-**„Podpis licencji nieprawidłowy” / aktywacja się nie udaje.**
+**„Podpis licencji nieprawidłowy” albo aktywacja się nie udaje.**
 Najczęściej licencja została wystawiona dla innego komputera (zły odcisk) lub plik został
 uszkodzony przy kopiowaniu. Wgraj plik `.lic` bez zmian (najlepiej „Wczytaj plik .lic…”),
 a jeśli nie pomoże — odeślij wydawcy aktualny odcisk serwera ze strony `/license`.
