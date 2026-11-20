@@ -36,7 +36,7 @@ Dostajesz go e‑mailem po zakupie. Jeśli nie dotarł — sprawdź spam albo na
 **„Podpis licencji nieprawidłowy” albo aktywacja się nie udaje.**
 Najczęściej licencja została wystawiona dla innego komputera (zły odcisk) lub plik został
 uszkodzony przy kopiowaniu. Wgraj plik `.lic` bez zmian (najlepiej „Wczytaj plik .lic…”),
-a jeśli nie pomoże — odeślij wydawcy aktualny odcisk serwera ze strony `/license`.
+a jeśli nie pomoże, odeślij wydawcy aktualny odcisk serwera ze strony `/license`.
 
 **Czy po reinstalacji trial zacznie się od nowa?**
 Nie. Okres próbny jest powiązany z komputerem, więc ponowna instalacja go nie odnawia.
