@@ -61,6 +61,6 @@ wielu klientów — **napisz po indywidualną ofertę**.
 2. Wybierz edycję i model, napisz podatnosci@wp.pl.
 3. Otrzymasz plik licencji `.lic` na e‑mail — aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
-**Kontakt / oferta:** Piotr Pęsiek — *e-mail:podatnosci@wp.pl*
+**Kontakt / oferta:** Piotr Pęsiek — *e‑mail: podatnosci@wp.pl*
 
 *Ceny orientacyjne, netto; mogą ulec zmianie. Wiążąca jest indywidualna oferta.*

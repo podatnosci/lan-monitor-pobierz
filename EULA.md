@@ -59,7 +59,7 @@ Użytkownik zobowiązany jest zaprzestać używania i usunąć Oprogramowanie.
 Umowa podlega prawu polskiemu. Spory rozstrzyga sąd właściwy dla siedziby Licencjodawcy.
 
 ## 10. Kontakt
-**Piotr Pęsiek** — *(uzupełnij: e‑mail / adres)*
+**Piotr Pęsiek** — *e‑mail: podatnosci@wp.pl*
 
 ---
 Korzystanie z Oprogramowania oznacza akceptację powyższych warunków.
