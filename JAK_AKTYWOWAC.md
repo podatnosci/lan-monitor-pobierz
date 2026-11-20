@@ -45,4 +45,4 @@ Nie. Okres próbny jest powiązany z komputerem, więc ponowna instalacja go nie
 Nie. Monitoring działa lokalnie; dane zostają na Twoim komputerze/serwerze.
 
 ---
-Potrzebujesz pomocy przy aktywacji? Kontakt: **Piotr Pęsiek** — *(uzupełnij dane kontaktowe)*.
+Potrzebujesz pomocy? Kontakt: **Piotr Pęsiek** — podatnosci@wp.pl**.
