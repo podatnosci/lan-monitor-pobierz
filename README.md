@@ -23,13 +23,12 @@ i anomaliach — wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 - **Instalacja jako usługa systemowa** (Windows) — startuje z komputerem, działa w tle.
 
 ## Pobierz
-Najnowsza wersja: zobacz zakładkę **[Releases](../../releases)** i pobierz
-`LANMonitor-Setup.exe`.
+Najnowsza wersja **1.26**: **[⬇ Pobierz LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**
 
 Wymagania: Windows 10/11 (64‑bit). Instalację uruchom **jako administrator**.
 
 ## Szybki start
-1. Uruchom `LANMonitor-Setup.exe` (jako administrator).
+1. Uruchom `LANMonitor-Setup-1.26.exe` (jako administrator).
 2. Otwórz pulpit: `http://localhost:8787`.
 3. Korzystasz z pełnej wersji przez 14 dni. Aby działać dalej — aktywuj licencję:
    patrz **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
