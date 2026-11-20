@@ -16,7 +16,7 @@
 | Obsługa wielu klientów / lokalizacji (multi‑tenant) | — | — | ✅ |
 | Limity urządzeń | wg licencji | wg licencji | **bez limitów** |
 
-## Model 1 — licencja wieczysta (kupujesz raz)
+## Model 1 licencja wieczysta (kupujesz raz)
 
 | Edycja | Cena jednorazowa | Opcjonalny maintenance (rocznie) |
 |---|---|---|
@@ -27,7 +27,7 @@
 Maintenance = dostęp do nowych wersji i wsparcie. Bez niego program **działa dalej**,
 ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** (on‑prem).
 
-## Model 2 — subskrypcja roczna
+## Model 2 subskrypcja roczna
 
 | Edycja | Cena za rok |
 |---|---|
@@ -58,9 +58,9 @@ wielu klientów — **napisz po indywidualną ofertę**.
 ---
 ## Jak kupić
 1. Pobierz i przetestuj — **[Releases](../../releases)**, 14 dni FULL za darmo.
-2. Wybierz edycję i model, napisz po ofertę/fakturę.
+2. Wybierz edycję i model, napisz podatnosci@wp.pl.
 3. Otrzymasz plik licencji `.lic` na e‑mail — aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
-**Kontakt / oferta:** Piotr Pęsiek — *(uzupełnij: e‑mail / telefon)*
+**Kontakt / oferta:** Piotr Pęsiek — *e-mail:podatnosci@wp.pl*
 
 *Ceny orientacyjne, netto; mogą ulec zmianie. Wiążąca jest indywidualna oferta.*
