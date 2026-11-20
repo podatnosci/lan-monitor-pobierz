@@ -49,7 +49,7 @@ Po zakupie otrzymasz plik licencji `.lic` na e‑mail. Aktywacja zajmuje chwilę
 instrukcja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
 ## Kontakt / wsparcie
-**Piotr Pęsiek** — *(uzupełnij: e‑mail / telefon / strona)*
+**Piotr Pęsiek** — *e‑mail: podatnosci@wp.pl*
 
 ---
 © 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie własnościowe — zasady
