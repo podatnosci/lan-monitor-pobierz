@@ -17,7 +17,7 @@ wielkości sieci i włączonych modułów (zwłaszcza bezpieczeństwa w Pro/FULL
 | Dysk | 500 MB wolnego miejsca (program + dane/historia) |
 | Sieć | karta w monitorowanej sieci LAN |
 
-Wystarcza dla typowego biura — rzędu **do ~200 urządzeń** w jednej podsieci.
+Wystarcza dla typowego biura, rzędu **do ~200 urządzeń** w jednej podsieci.
 
 ## Zalecane (większe sieci, Pro / FULL)
 | Zasób | Zalecane |
@@ -31,13 +31,13 @@ Komfortowo obsługuje **setki urządzeń**; przy **1000+ urządzeń** lub wielu 
 (MSP) zaplanuj 8 GB RAM i szybszy dysk (SSD).
 
 ## Ile urządzeń obsłuży?
-- Technicznie aplikacja skanuje tablicę ARP monitorowanych podsieci — jedna podsieć `/24`
+- Technicznie aplikacja skanuje tablicę ARP monitorowanych podsieci, jedna podsieć `/24`
   to maks. 254 hosty; przy wielu podsieciach odpowiednio więcej.
 - Praktyczny komfort: **kilkaset urządzeń** na zalecanej konfiguracji, **1000+** przy 8 GB RAM.
 - **Rzeczywisty limit wynika z licencji** (pole „liczba urządzeń” w Standard/Pro/MSP).
   Edycja **FULL nie ma limitu** urządzeń ani lokalizacji.
 
-## Moduły bezpieczeństwa (Pro/FULL) — uwaga o zasobach
+## Moduły bezpieczeństwa (Pro/FULL) uwaga o zasobach
 Funkcje IDS (Suricata, Zeek, CrowdSec) i głęboka analiza ruchu potrafią znacząco zwiększyć
 zużycie CPU i RAM, jeśli je włączysz i skierujesz na nie duży ruch. Dla intensywnego IDS
 rozważ **4+ rdzenie i 8 GB RAM**. Sam monitoring (bez IDS) jest dużo lżejszy.
