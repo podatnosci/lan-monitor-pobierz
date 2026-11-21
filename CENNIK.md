@@ -3,6 +3,9 @@
 > Ceny **netto (bez VAT)**, w PLN, za **jeden serwer/instancję**. Dostępne dwa modele:
 > licencja **wieczysta** (kupujesz raz) albo **subskrypcja roczna**. Nie masz pewności,
 > którą edycję wybrać? Przetestuj wszystko za darmo  **14 dni pełnej wersji (FULL)**.
+>
+> **Windows i Linux** — ta sama cena, te same funkcje i **ta sama licencja** działa na
+> obu systemach (Windows 10/11 oraz Debian/Ubuntu). Szczegóły instalacji na Linux: **[LINUX.md](LINUX.md)**.
 
 ## Co zawierają edycje
 > Pełna, szczegółowa tabela funkcji: **[FUNKCJE.md](FUNKCJE.md)**.
@@ -59,7 +62,9 @@ wielu klientów **napisz po indywidualną ofertę**.
 
 ---
 ## Jak kupić
-1. Pobierz i przetestuj **[LANMonitor-Setup-1.26.exe](../../releases/latest/download/LANMonitor-Setup-1.26.exe)**, 14 dni FULL za darmo.
+1. Pobierz i przetestuj (14 dni FULL za darmo):
+   - **Windows:** [LANMonitor-Setup-1.26.exe](../../releases/latest/download/LANMonitor-Setup-1.26.exe)
+   - **Linux (Debian/Ubuntu):** [lanmonitor_1.26.0_amd64.deb](../../releases/latest/download/lanmonitor_1.26.0_amd64.deb)
 2. Wybierz edycję i model, napisz podatnosci@wp.pl.
 3. Otrzymasz plik licencji `.lic` na e‑mail, aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
