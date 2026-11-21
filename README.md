@@ -53,5 +53,5 @@ instrukcja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 **Piotr Pęsiek** *e‑mail: podatnosci@wp.pl*
 
 ---
-© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie własnościowe, zasady
+© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie jest moją własnością, zasady
 użytkowania w pliku [EULA.md](EULA.md).
