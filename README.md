@@ -11,16 +11,16 @@ i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 
 ## Dla kogo
 - Małe i średnie firmy, które chcą wiedzieć, co jest w ich sieci.
-- Działy IT i administratorzy — szybki przegląd urządzeń, alarmy, historia zmian.
-- Dostawcy usług IT / MSP — monitoring sieci wielu klientów (edycja MSP).
+- Działy IT i administratorzy, szybki przegląd urządzeń, alarmy, historia zmian.
+- Dostawcy usług IT / MSP, monitoring sieci wielu klientów (edycja MSP).
 
 ## Najważniejsze funkcje
 - **Automatyczne wykrywanie urządzeń** w sieci (skan ARP) z nazwą, IP, MAC, producentem.
 - **Alarmy** o nowych i znikających urządzeniach, konfliktach ARP, zmianach bramy.
 - **Historia** zmian w sieci i podgląd „na żywo”.
-- **Pulpit w przeglądarce** pod adresem `http://localhost:8787` — nic nie instalujesz u klientów.
-- **Działa lokalnie** — bez wysyłania danych do chmury.
-- **Instalacja jako usługa systemowa** (Windows) — startuje z komputerem, działa w tle.
+- **Pulpit w przeglądarce** pod adresem `http://localhost:8787` nic nie instalujesz u klientów.
+- **Działa lokalnie** bez wysyłania danych do chmury.
+- **Instalacja jako usługa systemowa** (Windows) startuje z komputerem, działa w tle.
 
 ## Pobierz
 Najnowsza wersja **1.26**: **[⬇ Pobierz LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**
@@ -31,7 +31,7 @@ Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 ## Szybki start
 1. Uruchom `LANMonitor-Setup-1.26.exe` (jako administrator).
 2. Otwórz pulpit: `http://localhost:8787`.
-3. Korzystasz z pełnej wersji przez 14 dni. Aby działać dalej — aktywuj licencję:
+3. Korzystasz z pełnej wersji przez 14 dni. Aby działać dalej, aktywuj licencję:
    patrz **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
 ## Edycje i cennik
@@ -42,8 +42,8 @@ Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 | **FULL** | pełny zestaw funkcji | od 5900 zł/rok lub 14900 zł wieczyście |
 | **MSP** | obsługa wielu klientów | wycena indywidualna |
 
-Co dokładnie zawiera każda edycja — **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik — **[CENNIK.md](CENNIK.md)**.
-Wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
+Co dokładnie zawiera każda edycja **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik — **[CENNIK.md](CENNIK.md)**.
+Wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Zakup i aktywacja
 Po zakupie otrzymasz plik licencji `.lic` na e‑mail. Aktywacja zajmuje chwilę —
