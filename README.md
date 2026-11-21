@@ -2,7 +2,7 @@
 
 **Monitoring sieci lokalnej (LAN) dla firm i działów IT.** Wykrywa urządzenia, pilnuje
 zmian w sieci, alarmuje o nowych/znikających hostach, konfliktach ARP, otwartych portach
-i anomaliach — wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
+i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 
 > Pobierz, zainstaluj i korzystaj **14 dni za darmo w pełnej wersji (FULL)**. Potem
 > aktywujesz licencję, żeby działać dalej.
