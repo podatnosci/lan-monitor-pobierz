@@ -1,4 +1,4 @@
-# Umowa licencyjna użytkownika końcowego (EULA) — LAN Monitor
+# Umowa licencyjna użytkownika końcowego (EULA) LAN Monitor
 
 **Wersja 1.0 · © 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone.**
 
