@@ -50,7 +50,7 @@ portal klienta i raporty z Twoją marką. Dla firm IT i integratorów obsługuj�
 klientów. Limity lokalizacji i urządzeń ustawiane w licencji.
 
 ### FULL
-**Wszystkie funkcje, bez żadnych limitów** urządzeń ani lokalizacji — w tym funkcje
+**Wszystkie funkcje, bez żadnych limitów** urządzeń ani lokalizacji, w tym funkcje
 dodawane w przyszłości. Dla dużych wdrożeń i tych, którzy chcą mieć po prostu wszystko.
 
 ---
