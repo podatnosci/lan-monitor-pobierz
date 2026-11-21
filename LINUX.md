@@ -1,6 +1,6 @@
 # LAN Monitor na Linux
 
-Instalacja jako usługa w tle (systemd). Aplikacja jest w czystym Pythonie — nie wymaga
+Instalacja jako usługa w tle (systemd). Aplikacja jest w czystym Pythonie, nie wymaga
 żadnych pakietów pip.
 
 ## Wymagania
@@ -9,7 +9,7 @@ Instalacja jako usługa w tle (systemd). Aplikacja jest w czystym Pythonie — n
 
 ## Instalacja z pakietu .deb (Debian/Ubuntu i pochodne)
 
-> ⏳ **Pakiet `.deb` jest w przygotowaniu** — finalizujemy wersję z kodem skompilowanym
+> ⏳ **Pakiet `.deb` jest w przygotowaniu** finalizujemy wersję z kodem skompilowanym
 > (utwardzoną, tak jak instalator Windows), żeby kod aplikacji nie był jawny. Link do
 > pobrania pojawi się tutaj. Jeśli potrzebujesz instalacji od ręki, napisz do nas (kontakt niżej).
 
@@ -33,7 +33,7 @@ journalctl -u lanmonitor -f      # logi na żywo
 ```
 
 ## Dostęp do panelu z innego komputera
-Domyślnie panel słucha tylko lokalnie (`127.0.0.1`) — to bezpieczne. Aby wejść zdalnie:
+Domyślnie panel słucha tylko lokalnie (`127.0.0.1`) to bezpieczne. Aby wejść zdalnie:
 
 - **Tunel SSH (zalecane):**
   ```bash
@@ -45,7 +45,7 @@ Domyślnie panel słucha tylko lokalnie (`127.0.0.1`) — to bezpieczne. Aby wej
   i **ustaw hasło logowania** w `/config`.
 
 ## Aktywacja licencji
-Tak samo jak na Windows — ten sam plik `.lic`:
+Tak samo jak na Windows, ten sam plik `.lic`:
 - w panelu: `http://127.0.0.1:8787/license` → „Wczytaj plik .lic” / „Wczytaj inną licencję”,
 - albo z konsoli:
   ```bash
@@ -55,7 +55,7 @@ Tak samo jak na Windows — ten sam plik `.lic`:
 
 ## Deinstalacja
 ```bash
-sudo apt remove lanmonitor            # usuwa program, ZOSTAWIA dane (i kotwicę trialu)
+sudo apt remove lanmonitor            # usuwa program, ZOSTAWIA dane
 sudo apt purge  lanmonitor            # usuwa też dane /var/lib/lanmonitor
 ```
 
