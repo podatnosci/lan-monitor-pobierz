@@ -1,4 +1,4 @@
-# Funkcje edycji — Standard / Pro / MSP / FULL
+# Funkcje edycji Standard / Pro / MSP / FULL
 
 Edycje są **narastające** — każda wyższa zawiera wszystko z niższej i dokłada kolejne
 możliwości. Okres próbny (14 dni) działa jak **FULL**, więc przez ten czas testujesz
