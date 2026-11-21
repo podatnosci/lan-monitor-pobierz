@@ -1,11 +1,12 @@
 # LAN Monitor, cennik
 
 > Ceny **netto (bez VAT)**, w PLN, za **jeden serwer/instancję**. Dostępne dwa modele:
-> licencja **wieczysta** (kupujesz raz) albo **subskrypcja roczna**. Nie masz pewności,
-> którą edycję wybrać? Przetestuj wszystko za darmo  **14 dni pełnej wersji (FULL)**.
->
-> **Windows i Linux** — ta sama cena, te same funkcje i **ta sama licencja** działa na
-> obu systemach (Windows 10/11 oraz Debian/Ubuntu). Szczegóły instalacji na Linux: **[LINUX.md](LINUX.md)**.
+> licencja **wieczysta** (kupujesz raz) albo **subskrypcja roczna**.
+> Nie masz pewności, którą edycję wybrać? 
+> Przetestuj wszystko za darmo  **14 dni pełnej wersji (FULL)**.
+> **Windows i Linux**, ta sama cena, te same funkcje i **ta sama licencja** działa na
+> obu systemach (Windows 10/11 oraz Debian/Ubuntu).
+> Szczegóły instalacji na Linux: **[LINUX.md](LINUX.md)**.
 
 ## Co zawierają edycje
 > Pełna, szczegółowa tabela funkcji: **[FUNKCJE.md](FUNKCJE.md)**.
