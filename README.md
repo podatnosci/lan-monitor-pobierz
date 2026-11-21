@@ -23,9 +23,9 @@ i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 - **Instalacja jako usługa systemowa** (Windows) startuje z komputerem, działa w tle.
 
 ## Pobierz
-**Windows** (1.26): **[⬇ LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)** — Windows 10/11 (64‑bit), uruchom **jako administrator**.
+**Windows** (1.26): **[⬇ LANMonitor-Setup-1.26.exe](../../releases/latest/download/LANMonitor-Setup-1.26.exe)** — Windows 10/11 (64‑bit), uruchom **jako administrator**.
 
-**Linux** (1.26, pakiet .deb): **[⬇ lanmonitor_1.26.0_amd64.deb](../../raw/main/lanmonitor_1.26.0_amd64.deb)** — Debian/Ubuntu (amd64), wersja utwardzona. Szczegóły: **[LINUX.md](LINUX.md)**.
+**Linux** (1.26, pakiet .deb): **[⬇ lanmonitor_1.26.0_amd64.deb](../../releases/latest/download/lanmonitor_1.26.0_amd64.deb)** — Debian/Ubuntu (amd64), wersja utwardzona. Szczegóły: **[LINUX.md](LINUX.md)**.
 
 Pełne wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 

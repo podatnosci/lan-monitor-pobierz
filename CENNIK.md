@@ -59,7 +59,7 @@ wielu klientów **napisz po indywidualną ofertę**.
 
 ---
 ## Jak kupić
-1. Pobierz i przetestuj **[LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**, 14 dni FULL za darmo.
+1. Pobierz i przetestuj **[LANMonitor-Setup-1.26.exe](../../releases/latest/download/LANMonitor-Setup-1.26.exe)**, 14 dni FULL za darmo.
 2. Wybierz edycję i model, napisz podatnosci@wp.pl.
 3. Otrzymasz plik licencji `.lic` na e‑mail, aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
