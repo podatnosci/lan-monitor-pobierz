@@ -11,7 +11,7 @@ wgraj licencję. Są dwa sposoby: przez pulpit w przeglądarce (najprościej) al
 3. Gdy dostaniesz plik **`lanmonitor.lic`** na e‑mail:
    - kliknij **„Wczytaj plik .lic…”** i wskaż otrzymany plik (albo wklej jego treść w pole),
    - kliknij **„Aktywuj”**.
-4. Status zmieni się na **„Licencja ważna”** — gotowe.
+4. Status zmieni się na **„Licencja ważna”** gotowe.
 
 ![Strona aktywacji licencji](obrazy/licencja.png)
 
