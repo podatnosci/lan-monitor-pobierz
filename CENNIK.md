@@ -5,6 +5,8 @@
 > którą edycję wybrać? Przetestuj wszystko za darmo — **14 dni pełnej wersji (FULL)**.
 
 ## Co zawierają edycje
+> Pełna, szczegółowa tabela funkcji: **[FUNKCJE.md](FUNKCJE.md)**.
+
 
 | Funkcja | Standard | Pro | FULL |
 |---|:---:|:---:|:---:|

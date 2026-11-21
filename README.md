@@ -26,6 +26,7 @@ i anomaliach — wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 Najnowsza wersja **1.26**: **[⬇ Pobierz LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**
 
 Wymagania: Windows 10/11 (64‑bit). Instalację uruchom **jako administrator**.
+Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Szybki start
 1. Uruchom `LANMonitor-Setup-1.26.exe` (jako administrator).
@@ -41,7 +42,8 @@ Wymagania: Windows 10/11 (64‑bit). Instalację uruchom **jako administrator**.
 | **FULL** | pełny zestaw funkcji | od 5900 zł/rok lub 14900 zł wieczyście |
 | **MSP** | obsługa wielu klientów | wycena indywidualna |
 
-Dokładny zakres funkcji i aktualne ceny — zapytaj o ofertę (kontakt niżej).
+Co dokładnie zawiera każda edycja — **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik — **[CENNIK.md](CENNIK.md)**.
+Wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Zakup i aktywacja
 Po zakupie otrzymasz plik licencji `.lic` na e‑mail. Aktywacja zajmuje chwilę —
