@@ -19,7 +19,7 @@
 | Limity urządzeń | wg licencji | wg licencji | **bez limitów** |
 
 
-## Model 1 subskrypcja roczna
+## Model 1, czyli subskrypcja roczna
 
 | Edycja | Cena za rok |
 |---|---|
