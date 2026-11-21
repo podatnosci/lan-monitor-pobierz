@@ -2,7 +2,7 @@
 
 > Ceny **netto (bez VAT)**, w PLN, za **jeden serwer/instancję**. Dostępne dwa modele:
 > licencja **wieczysta** (kupujesz raz) albo **subskrypcja roczna**. Nie masz pewności,
-> którą edycję wybrać? Przetestuj wszystko za darmo — **14 dni pełnej wersji (FULL)**.
+> którą edycję wybrać? Przetestuj wszystko za darmo  **14 dni pełnej wersji (FULL)**.
 
 ## Co zawierają edycje
 > Pełna, szczegółowa tabela funkcji: **[FUNKCJE.md](FUNKCJE.md)**.
