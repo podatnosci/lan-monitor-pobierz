@@ -61,7 +61,7 @@ Co warto wiedzieć:
 ## Najczęstsze pytania
 
 **Skąd wziąć plik `.lic`?**
-Dostajesz go e‑mailem po zakupie. Jeśli nie dotarł — sprawdź spam albo napisz do wsparcia.
+Dostajesz go e‑mailem po zakupie. Jeśli nie dotarł, sprawdź spam albo napisz.
 
 **„Podpis licencji nieprawidłowy” albo aktywacja się nie udaje.**
 Najczęściej licencja została wystawiona dla innego komputera (zły odcisk) lub plik został
@@ -72,7 +72,9 @@ a jeśli nie pomoże, odeślij wydawcy aktualny odcisk serwera ze strony `/licen
 Nie. Okres próbny jest powiązany z komputerem, więc ponowna instalacja go nie odnawia.
 
 **Czy dane wychodzą do internetu?**
-Nie. Monitoring działa lokalnie; dane zostają na Twoim komputerze/serwerze.
+Nie. Monitoring działa lokalnie; dane zostają na Twoim komputerze, serwerze.
 
 ---
-Potrzebujesz pomocy? Kontakt: **Piotr Pęsiek** — podatnosci@wp.pl
+Potrzebujesz pomocy? 
+Kontakt: **Piotr Pęsiek** 
+email: podatnosci@wp.pl
