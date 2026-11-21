@@ -37,9 +37,9 @@ Pełne wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 ## Edycje i cennik
 | Edycja | Dla kogo | Orientacyjnie |
 |---|---|---|
-| **Standard** | pojedyncza sieć / mała firma | od 790 zł/rok lub 1900 zł wieczyście |
-| **Pro** | większe sieci, więcej funkcji | od 1990 zł/rok lub 4900 zł wieczyście |
-| **FULL** | pełny zestaw funkcji | od 5900 zł/rok lub 14900 zł wieczyście |
+| **Standard** | pojedyncza sieć / mała firma | od 790 zł/rok|
+| **Pro** | większe sieci, więcej funkcji | od 1990 zł/rok|
+| **FULL** | pełny zestaw funkcji | od 5900 zł/rok|
 | **MSP** | obsługa wielu klientów | wycena indywidualna |
 
 Co dokładnie zawiera każda edycja **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik **[CENNIK.md](CENNIK.md)**.
@@ -53,5 +53,5 @@ instrukcja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 **Piotr Pęsiek** *e‑mail: podatnosci@wp.pl*
 
 ---
-© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie jest moją własnością, zasady
+© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie jest własnością Piotra Pęsiek, zasady
 użytkowania w pliku [EULA.md](EULA.md).
