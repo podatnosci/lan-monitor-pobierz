@@ -1,8 +1,8 @@
 # Funkcje edycji Standard / Pro / MSP / FULL
 
-Edycje są **narastające** każda wyższa zawiera wszystko z niższej i dokłada kolejne
+Edycje są **narastające**, każda wyższa zawiera wszystko z niższej i dokłada kolejne
 możliwości. Okres próbny (14 dni) działa jak **FULL**, więc przez ten czas testujesz
-wszystko, niezależnie od tego, którą edycję później kupisz.
+wszystko, niezależnie od tego, którą edycję później wybierzesz.
 
 ## Pełna tabela funkcji
 
@@ -30,7 +30,7 @@ wszystko, niezależnie od tego, którą edycję później kupisz.
 Podstawowe bezpieczeństwo panelu (hasło, 2FA, klucze API, dziennik audytu) jest dostępne
 w **każdej** edycji.
 
-## W skrócie — dla kogo która
+## W skrócie dla kogo która
 
 ### Standard
 Pełny **monitoring sieci**: wykrywanie urządzeń, alarmy, analityka, operacje sieciowe
