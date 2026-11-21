@@ -43,9 +43,30 @@ W cenie: aktualizacje i wsparcie przez cały okres subskrypcji.
 
 Maintenance = dostęp do nowych wersji i wsparcie. Bez niego program **działa dalej**,
 ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** (on‑prem).
-## Większe sieci
-Ceny bazowe obejmują do 50 urządzeń. Dla większych sieci dostępne pakiety:
-do 250, do 1000 i powyżej  **wycena indywidualna** w zależności od skali.
+## Większe sieci — ceny wg liczby urządzeń
+Edycje **Standard** i **Pro** mają limit urządzeń wpisany w licencję. Ceny bazowe obejmują
+**do 50 urządzeń**; dla większych sieci obowiązuje mnożnik za skalę:
+
+| Liczba urządzeń | Mnożnik |
+|---|:---:|
+| do 50 (bazowy) | ×1,0 |
+| 51–250 | ×1,5 |
+| 251–1000 | ×2,5 |
+| powyżej 1000 | wycena indywidualna |
+
+Ceny po zastosowaniu mnożnika (netto, PLN — *wieczysta / rok*):
+
+| Edycja | do 50 | 51–250 | 251–1000 |
+|---|---|---|---|
+| **Standard** | 1 900 / 790 | 2 850 / 1 185 | 4 750 / 1 975 |
+| **Pro** | 4 900 / 1 990 | 7 350 / 2 985 | 12 250 / 4 975 |
+
+**Przykład — 150 urządzeń** (przedział 51–250, ×1,5): Standard **2 850 zł** (lub 1 185 zł/rok),
+Pro **7 350 zł** (lub 2 985 zł/rok).
+
+Edycja **FULL nie ma limitu urządzeń** — jest w stałej cenie (**14 900 zł** wieczyście /
+**5 900 zł** rocznie) niezależnie od liczby urządzeń, więc dla dużych sieci często wychodzi
+najkorzystniej. Powyżej 1000 urządzeń lub przy wielu lokalizacjach (MSP) — wycena indywidualna.
 
 ## Rabaty
 - **Ilościowe:** 3–5 instancji −10%, 6–10 −20%, 11+ −30%.
