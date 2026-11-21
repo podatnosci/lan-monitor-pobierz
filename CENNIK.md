@@ -18,18 +18,8 @@
 | Obsługa wielu klientów / lokalizacji (multi‑tenant) | — | — | ✅ |
 | Limity urządzeń | wg licencji | wg licencji | **bez limitów** |
 
-## Model 1 licencja wieczysta (kupujesz raz)
 
-| Edycja | Cena jednorazowa | Opcjonalny maintenance (rocznie) |
-|---|---|---|
-| **Standard** | 1 900 zł | 380 zł |
-| **Pro** | 4 900 zł | 980 zł |
-| **FULL** | 14 900 zł | 2 980 zł |
-
-Maintenance = dostęp do nowych wersji i wsparcie. Bez niego program **działa dalej**,
-ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** (on‑prem).
-
-## Model 2 subskrypcja roczna
+## Model 1 subskrypcja roczna
 
 | Edycja | Cena za rok |
 |---|---|
@@ -39,6 +29,16 @@ ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** 
 
 W cenie: aktualizacje i wsparcie przez cały okres subskrypcji.
 
+## Model 2, czyli licencja wieczysta (kupujesz raz)
+
+| Edycja | Cena jednorazowa | Opcjonalny maintenance (rocznie) |
+|---|---|---|
+| **Standard** | 1 900 zł | 380 zł |
+| **Pro** | 4 900 zł | 980 zł |
+| **FULL** | 14 900 zł | 2 980 zł |
+
+Maintenance = dostęp do nowych wersji i wsparcie. Bez niego program **działa dalej**,
+ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** (on‑prem).
 ## Większe sieci
 Ceny bazowe obejmują do 50 urządzeń. Dla większych sieci dostępne pakiety:
 do 250, do 1000 i powyżej  **wycena indywidualna** w zależności od skali.
