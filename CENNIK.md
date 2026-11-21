@@ -1,4 +1,4 @@
-# LAN Monitor — cennik
+# LAN Monitor, cennik
 
 > Ceny **netto (bez VAT)**, w PLN, za **jeden serwer/instancję**. Dostępne dwa modele:
 > licencja **wieczysta** (kupujesz raz) albo **subskrypcja roczna**. Nie masz pewności,
