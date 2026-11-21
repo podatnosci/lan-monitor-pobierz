@@ -26,7 +26,7 @@ i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 Najnowsza wersja **1.26**: **[⬇ Pobierz LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**
 
 Wymagania: Windows 10/11 (64‑bit). Instalację uruchom **jako administrator**.
-Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
+Pełne wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Szybki start
 1. Uruchom `LANMonitor-Setup-1.26.exe` (jako administrator).
@@ -42,16 +42,16 @@ Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 | **FULL** | pełny zestaw funkcji | od 5900 zł/rok lub 14900 zł wieczyście |
 | **MSP** | obsługa wielu klientów | wycena indywidualna |
 
-Co dokładnie zawiera każda edycja **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik — **[CENNIK.md](CENNIK.md)**.
+Co dokładnie zawiera każda edycja **[FUNKCJE.md](FUNKCJE.md)**. Pełny cennik **[CENNIK.md](CENNIK.md)**.
 Wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Zakup i aktywacja
-Po zakupie otrzymasz plik licencji `.lic` na e‑mail. Aktywacja zajmuje chwilę —
+Po zakupie otrzymasz plik licencji `.lic` na e‑mail. Aktywacja zajmuje chwilę
 instrukcja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
 ## Kontakt / wsparcie
-**Piotr Pęsiek** — *e‑mail: podatnosci@wp.pl*
+**Piotr Pęsiek** *e‑mail: podatnosci@wp.pl*
 
 ---
-© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie własnościowe — zasady
+© 2026 Piotr Pęsiek. Wszelkie prawa zastrzeżone. Oprogramowanie własnościowe, zasady
 użytkowania w pliku [EULA.md](EULA.md).
