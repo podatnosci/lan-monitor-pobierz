@@ -25,7 +25,7 @@ i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 ## Pobierz
 **Windows** (1.26): **[⬇ LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)** — Windows 10/11 (64‑bit), uruchom **jako administrator**.
 
-**Linux** (1.26, pakiet .deb): **[⬇ lanmonitor_1.26.0_all.deb](../../raw/main/lanmonitor_1.26.0_all.deb)** — Debian/Ubuntu i pochodne, instalacja przez `apt`. Szczegóły: **[LINUX.md](LINUX.md)**.
+**Linux** (pakiet .deb, Debian/Ubuntu): **w przygotowaniu** (wersja utwardzona). Instrukcja i dostępność: **[LINUX.md](LINUX.md)**.
 
 Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
 
