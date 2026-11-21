@@ -27,7 +27,7 @@ i anomaliach, wszystko w przeglądarce, bez chmury. Dane zostają u Ciebie.
 
 **Linux** (pakiet .deb, Debian/Ubuntu): **w przygotowaniu** (wersja utwardzona). Instrukcja i dostępność: **[LINUX.md](LINUX.md)**.
 
-Pełne wymagania sprzętowe i wydajność — **[WYMAGANIA.md](WYMAGANIA.md)**.
+Pełne wymagania sprzętowe i wydajność **[WYMAGANIA.md](WYMAGANIA.md)**.
 
 ## Szybki start
 1. Uruchom `LANMonitor-Setup-1.26.exe` (jako administrator).
