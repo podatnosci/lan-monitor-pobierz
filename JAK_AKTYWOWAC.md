@@ -30,20 +30,20 @@ sudo lanmonitor --license lanmonitor.lic
 
 ## 4. Licencja wygasła / minął okres — co zrobić?
 Nie trzeba nic odinstalowywać ani kombinować. Po wygaśnięciu aplikacja **blokuje dostęp
-do danych, ale strona aktywacji dalej działa** — od razu wgrasz nową licencję:
+do danych, ale strona aktywacji dalej działa** od razu wgrasz nową licencję:
 
 1. Otwórz **`http://localhost:8787/license`** (nawet gdy reszta panelu jest zablokowana,
    program sam Cię tu przekieruje).
-2. Jeśli masz już nową licencję — kliknij **„Wczytaj inną licencję”**, wklej plik `.lic`
+2. Jeśli masz już nową licencję, kliknij **„Wczytaj inną licencję”**, wklej plik `.lic`
    i **„Aktywuj”**. Dostęp wraca natychmiast.
-3. Jeśli jeszcze jej nie masz — skopiuj **„Odcisk tego serwera”** i napisz po odnowienie
+3. Jeśli jeszcze jej nie masz, skopiuj **„Odcisk tego serwera”** i napisz po odnowienie
    (kontakt niżej). Odeślemy nowy plik `.lic`.
 
-> **To nie jest nowy trial.** Wgrywasz swoją **płatną** licencję — program przechodzi
+> **To nie jest nowy trial.** Wgrywasz swoją **płatną** licencję, program przechodzi
 > na nią bez utraty danych i bez ponownego okresu próbnego.
 
 ## 5. Prawidłowe odinstalowanie
-**Chcesz tylko zmienić/odnowić licencję?** Nie odinstalowuj — użyj sekcji 2 lub 4 powyżej.
+**Chcesz tylko zmienić/odnowić licencję?** Nie odinstalowuj, użyj sekcji 2 lub 4 powyżej.
 
 Pełne odinstalowanie (gdy chcesz usunąć program z komputera):
 1. **Ustawienia Windows → Aplikacje → Zainstalowane aplikacje**, znajdź **LAN Monitor**
@@ -51,13 +51,12 @@ Pełne odinstalowanie (gdy chcesz usunąć program z komputera):
 2. Deinstalator zatrzyma usługę i usunie program.
 
 Co warto wiedzieć:
-- Ponowna instalacja **nie uruchamia nowego okresu próbnego** — to zabezpieczenie celowe.
+- Ponowna instalacja **nie uruchamia nowego okresu próbnego**, to zabezpieczenie celowe.
   Po reinstalacji po prostu aktywuj swoją licencję (sekcja 1).
 - Dane i historia w `C:\ProgramData\LANMonitor` pozostają po odinstalowaniu (możesz do nich
   wrócić po reinstalacji). Jeśli chcesz je też usunąć, skasuj ten folder ręcznie jako
   administrator — **ale** nie przywróci to kolejnego trialu.
-- Przenosisz licencję na inny komputer albo porządkujesz instalację? Napisz do nas —
-  pomożemy to zrobić poprawnie.
+- Przenosisz licencję na inny komputer albo porządkujesz instalację? Napisz do nas, pomożemy to zrobić poprawnie.
 
 ## Najczęstsze pytania
 
