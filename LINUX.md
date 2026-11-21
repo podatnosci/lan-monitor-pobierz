@@ -8,20 +8,17 @@ Instalacja jako usługa w tle (systemd). Aplikacja jest w czystym Pythonie, nie 
 - **Python 3.8+**, **iproute2** (`ip`), **iputils-ping** (`ping`).
 
 ## Instalacja z pakietu .deb (Debian/Ubuntu i pochodne)
-
-> ⏳ **Pakiet `.deb` jest w przygotowaniu** finalizujemy wersję z kodem skompilowanym
-> (utwardzoną, tak jak instalator Windows), żeby kod aplikacji nie był jawny. Link do
-> pobrania pojawi się tutaj. Jeśli potrzebujesz instalacji od ręki, napisz do nas (kontakt niżej).
-
-Po udostępnieniu instalacja będzie wyglądać tak:
-1. Pobierz pakiet `lanmonitor_<wersja>_all.deb`.
+1. Pobierz **[lanmonitor_1.26.0_amd64.deb](../../raw/main/lanmonitor_1.26.0_amd64.deb)** (amd64).
 2. Zainstaluj (sam pociągnie zależności):
    ```bash
-   sudo apt install ./lanmonitor_1.26.0_all.deb
+   sudo apt install ./lanmonitor_1.26.0_amd64.deb
    ```
-   (na starszych systemach: `sudo dpkg -i lanmonitor_1.26.0_all.deb && sudo apt -f install`)
+   (na starszych systemach: `sudo dpkg -i lanmonitor_1.26.0_amd64.deb && sudo apt -f install`)
 3. Usługa startuje automatycznie. Otwórz pulpit: **http://127.0.0.1:8787**
    (ustawienia/kreator: http://127.0.0.1:8788/config).
+
+> Pakiet jest **utwardzony**: zawiera zamrożony interpreter i skompilowane moduły —
+> kod aplikacji nie jest jawny (tak jak instalator Windows). Nie wymaga Pythona w systemie.
 
 Pełna wersja (FULL) działa 14 dni, potem wymaga licencji — patrz niżej.
 
