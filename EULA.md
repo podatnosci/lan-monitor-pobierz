@@ -6,12 +6,12 @@ Niniejsza Umowa Licencyjna („Umowa”) zawierana jest pomiędzy Tobą („Uży
 a Piotrem Pęsiekiem („Licencjodawca”) i określa zasady korzystania z oprogramowania
 **LAN Monitor** wraz z instalatorem, dokumentacją i aktualizacjami („Oprogramowanie”).
 Instalując lub używając Oprogramowanie, akceptujesz warunki tej Umowy. Jeśli ich nie
-akceptujesz — nie instaluj i nie używaj Oprogramowania.
+akceptujesz, nie instaluj i nie używaj Oprogramowania.
 
 ## 1. Własność
 Oprogramowanie jest własnością Licencjodawcy i jest chronione prawem autorskim oraz
 innymi przepisami o ochronie własności intelektualnej. Umowa **nie przenosi** na
-Użytkownika żadnych praw autorskich — udziela jedynie ograniczonej licencji na korzystanie.
+Użytkownika żadnych praw autorskich udziela jedynie ograniczonej licencji na korzystanie.
 
 ## 2. Zakres licencji
 Po wniesieniu opłaty i aktywacji ważnej licencji Licencjodawca udziela Użytkownikowi
@@ -59,7 +59,8 @@ Użytkownik zobowiązany jest zaprzestać używania i usunąć Oprogramowanie.
 Umowa podlega prawu polskiemu. Spory rozstrzyga sąd właściwy dla siedziby Licencjodawcy.
 
 ## 10. Kontakt
-**Piotr Pęsiek** — *e‑mail: podatnosci@wp.pl*
+**Piotr Pęsiek** 
+*e‑mail: podatnosci@wp.pl*
 
 ---
 Korzystanie z Oprogramowania oznacza akceptację powyższych warunków.
