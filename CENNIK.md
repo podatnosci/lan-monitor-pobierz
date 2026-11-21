@@ -43,7 +43,7 @@ W cenie: aktualizacje i wsparcie przez cały okres subskrypcji.
 
 Maintenance = dostęp do nowych wersji i wsparcie. Bez niego program **działa dalej**,
 ale nie otrzymuje aktualizacji. Idealne dla sieci **bez dostępu do internetu** (on‑prem).
-## Większe sieci — ceny wg liczby urządzeń
+## Większe sieci, ceny wg liczby urządzeń
 Edycje **Standard** i **Pro** mają limit urządzeń wpisany w licencję. Ceny bazowe obejmują
 **do 50 urządzeń**; dla większych sieci obowiązuje mnożnik za skalę:
 
