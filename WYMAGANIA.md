@@ -1,6 +1,6 @@
 # Wymagania techniczne i wydajność
 
-LAN Monitor jest lekki — działa w tle jako usługa systemowa i nie wymaga serwera baz
+LAN Monitor jest lekki, działa w tle jako usługa systemowa i nie wymaga serwera baz
 danych ani chmury. Poniższe wartości to praktyczne zalecenia; realne zużycie zależy od
 wielkości sieci i włączonych modułów (zwłaszcza bezpieczeństwa w Pro/FULL).
 
