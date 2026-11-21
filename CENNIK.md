@@ -41,7 +41,7 @@ W cenie: aktualizacje i wsparcie przez cały okres subskrypcji.
 
 ## Większe sieci
 Ceny bazowe obejmują do 50 urządzeń. Dla większych sieci dostępne pakiety:
-do 250, do 1000 i powyżej — **wycena indywidualna** w zależności od skali.
+do 250, do 1000 i powyżej  **wycena indywidualna** w zależności od skali.
 
 ## Rabaty
 - **Ilościowe:** 3–5 instancji −10%, 6–10 −20%, 11+ −30%.
@@ -50,7 +50,7 @@ do 250, do 1000 i powyżej — **wycena indywidualna** w zależności od skali.
 
 ## Dla firm IT / MSP
 Obsługujesz sieci wielu klientów? Mamy osobny model MSP z portalem i trybem
-wielu klientów — **napisz po indywidualną ofertę**.
+wielu klientów **napisz po indywidualną ofertę**.
 
 ## Dodatki (opcjonalnie)
 - Wdrożenie i szkolenie: 1 500–4 000 zł jednorazowo.
@@ -61,8 +61,8 @@ wielu klientów — **napisz po indywidualną ofertę**.
 ## Jak kupić
 1. Pobierz i przetestuj — **[LANMonitor-Setup-1.26.exe](../../raw/main/LANMonitor-Setup-1.26.exe)**, 14 dni FULL za darmo.
 2. Wybierz edycję i model, napisz podatnosci@wp.pl.
-3. Otrzymasz plik licencji `.lic` na e‑mail — aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
+3. Otrzymasz plik licencji `.lic` na e‑mail, aktywacja w **[JAK_AKTYWOWAC.md](JAK_AKTYWOWAC.md)**.
 
-**Kontakt / oferta:** Piotr Pęsiek — *e‑mail: podatnosci@wp.pl*
+**Kontakt / oferta:** Piotr Pęsiek *e‑mail: podatnosci@wp.pl*
 
 *Ceny orientacyjne, netto; mogą ulec zmianie. Wiążąca jest indywidualna oferta.*
